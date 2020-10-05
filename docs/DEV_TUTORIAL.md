@@ -8,9 +8,15 @@ $ nvm use
 ```
 
 ## Development steps
+
+### init app 
 ```bash
 $ npm init -y
 $ npm install react react-dom next
 ```
 
+### setup prettier 
+```bash
+$ npm install -D prettier pretty-quick
+```
 
