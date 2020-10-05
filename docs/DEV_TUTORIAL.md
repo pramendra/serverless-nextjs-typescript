@@ -20,3 +20,7 @@ $ npm install react react-dom next
 $ npm install -D prettier pretty-quick
 ```
 
+
+#### add config
+.prettierrc 
+.vscode/settings.json
