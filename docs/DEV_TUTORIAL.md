@@ -61,3 +61,11 @@ Would you like to install them now with npm?
 ```bash
 $ npm install -D eslint-plugin-prettier
 ```
+
+
+### setup typescript
+
+```bash
+$ npm install -D typescript @types/react @types/react-dom @types/node
+$ touch tsconfig.json
+```
