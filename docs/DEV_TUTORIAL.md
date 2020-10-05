@@ -69,3 +69,12 @@ $ npm install -D eslint-plugin-prettier
 $ npm install -D typescript @types/react @types/react-dom @types/node
 $ touch tsconfig.json
 ```
+
+
+
+### setup styled component
+
+```bash
+$ npm i styled-components @chakra-ui/core @emotion/core @emotion/styled emotion-theming
+$ npm i -D babel-plugin-styled-components @types/styled-components
+```
